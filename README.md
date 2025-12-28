@@ -1,4 +1,4 @@
-![Masterhead](https://github.com/Himanshu-Saxena2512/HimanshuSaxena2512/blob/main/Banner.gif?raw=true)
+![Masterhead](https://github.com/HimanshuSaxena2512/HimanshuSaxena2512/blob/main/Banner.gif?raw=true)
 ## Hey there! I'm Himanshu, the tech enthusiast and Full-Stack Developer behind this GitHub page. 🚀
 
 - 🎓 Completed my Bachelor's of Science in Computer Science.
